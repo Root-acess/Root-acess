@@ -18,7 +18,7 @@ I thrive on exploring the ever-evolving world of security, always on the lookout
 
 ### 🌐 Online Presence
 
-- [whatsapp] - { https://whatsapp.com/channel/0029Va4GJZcId7nQYL9XB647 }Sharing insights and knowledge about the latest trends in cybersecurity.
+- [whatsapp](https://whatsapp.com/channel/0029Va4GJZcId7nQYL9XB647) -Sharing insights and knowledge about the latest trends in cybersecurity.
 - [Instagram](https://instagram.com/cybe_r_boy?igshid=MzMyNGUyNmU2YQ==) - Connecting with like-minded professionals in the field.
   
 
