@@ -15,7 +15,8 @@
 </div>
 
 
-
+<br>
+<br>
 
 
 <table align="center">
@@ -89,6 +90,9 @@
     </td>
   </tr>
 </table>
+
+<br>
+<br>
 
 <h2 align="center">📚 Currently Learning</h2>
 
