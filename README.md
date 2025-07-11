@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Hiralal+Singh;A+DevOps+Engineer+with+Full-Stack+Roots" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=36&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Hiralal+Singh;A+DevOps+Engineer+with+Full-Stack+Roots" alt="Typing Animation" />
 </div>
+
+
 
 # 📊 GitHub Stats:
 <div align="center">
