@@ -121,23 +121,135 @@
   </tr>
 </table>
 
+<br>
+<br>
 
-# 🚀 Highlight Projects:
-- **CI/CD Pipeline Setup** – Dockerized full-stack app with GitHub Actions & Vercel deployment  
-- **AWS Infrastructure with Terraform** – Provisioned EC2, Lambda, and S3 using Terraform modules  
-- **Monitoring Stack** – Set up Prometheus and Grafana for real-time system metrics & alerting  
-- **Serverless API** – Built scalable serverless APIs with AWS Lambda and API Gateway  
-- **Automated Deployment** – Used Ansible & Jenkins to automate app deployment and backup pipelines  
+<br>
+<br><h2 align="center">📂 Linux Tools</h2>
 
-# 👋 Hi, I'm Hiralal Singh!
-A DevOps Engineer from India 🇮🇳, passionate about automating systems, scaling cloud infrastructure, and optimizing deployment workflows. I bridge the gap between development and operations to deliver fast, secure, and reliable systems.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="80" height="80" alt="Bash" />
+      <br /><b>Bash</b>
+    </td>
+    <td align="center">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" width="80" height="80" alt="Nmap" />
+      <br /><b>Nmap</b>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="80" height="80" alt="Wireshark" />
+      <br /><b>Wireshark</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80" alt="Linux CLI" />
+      <br /><b>Linux CLI</b>
+    </td>
+    </td>
+  </tr>
 
-- 🔭 I’m currently working on **cloud-native automation & monitoring pipelines**
-- 🌱 I’m currently learning **Kubernetes & advanced AWS architecture**
-- 👯 I’m open to **DevOps consulting and open-source collaboration**
-- 💬 Ask me about **CI/CD, Docker, Terraform, or Cloud Monitoring**
-- 📫 Reach me at **hiralals221@gmail.com**
-- ⚡ Fun fact: **I started as a frontend dev and found my true passion in DevOps**
+  <tr>
+    <td align="center">
+     <img width="64" height="64" src="https://img.icons8.com/external-filled-outline-lima-studio/64/external-character-monster-filled-outline-lima-studio-5.png" alt="external-character-monster-filled-outline-lima-studio-5" width="80" height="80" alt="Medusa" />
+      <br /><b>Medusa</b>
+    </td>
+    <td align="center">
+      <img width="48" height="48" src="https://img.icons8.com/color/48/console.png"  width="64" height="64" alt="Shell Script" />
+      <br /><b>Shell Scripting</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/80/command-line.png" width="70" height="70" alt="Netstat" />
+      <br /><b>Netstat</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/imac-settings.png" alt="imac-settings" width="80" height="80" alt="System Tools" />
+      <br /><b>System Tools</b>
+    </td>
+  </tr>
+</table>
+
+# 🚀 Project Works
+<br>
+<div>
+
+<!-- Project 1: CI/CD -->
+<details>
+  <summary><strong>➤ CI/CD Pipeline with GitHub Actions & Vercel</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/CI%2FCD%20Pipeline-GitHub%20Actions%20+%20Vercel-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /><br><br>
+    <strong>Highlights:</strong><br>
+    • Dockerized full-stack app<br>
+    • Auto deploys to Vercel with rollback<br>
+    • GitHub Actions for CI workflow<br><br>
+    🔗 <a href="https://github.com/root-acess/devops-cicd">View Project</a>
+  </p>
+</details>
+<br>
+
+<!-- Project 2: Terraform AWS Infra -->
+<details>
+  <summary><strong>➤ AWS Infra with Terraform</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/IaC-Terraform%20on%20AWS-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br><br>
+    <strong>Highlights:</strong><br>
+    • Provisioned EC2, S3, IAM roles<br>
+    • Modular Terraform setup<br>
+    • Infrastructure lifecycle via CLI<br><br>
+    🔗 <a href="https://github.com/root-acess/aws-terraform">View Project</a>
+  </p>
+</details>
+<br>
+
+<!-- Project 3: Monitoring Stack -->
+<details>
+  <summary><strong>➤ System Monitoring with Grafana + Prometheus</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Monitoring-Grafana%20+%20Prometheus-orange?style=for-the-badge&logo=grafana&logoColor=white" /><br><br>
+    <strong>Highlights:</strong><br>
+    • Real-time metrics and custom dashboards<br>
+    • Node Exporter and Alertmanager setup<br>
+    • Slack/Telegram alert integration<br><br>
+    🔗 <a href="https://github.com/root-acess/monitoring-stack">View Project</a>
+  </p>
+</details>
+<br>
+
+<!-- Project 4: Serverless API -->
+<details>
+  <summary><strong>➤ Serverless REST API with AWS Lambda</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Serverless-AWS%20Lambda%20API-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" /><br><br>
+    <strong>Highlights:</strong><br>
+    • Built with Lambda + API Gateway<br>
+    • Lightweight and scalable<br>
+    • Integrated DynamoDB and CORS config<br><br>
+    🔗 <a href="https://github.com/root-acess/lambda-api">View Project</a>
+  </p>
+</details>
+<br>
+
+<!-- Project 5: Pickup App -->
+<details>
+  <summary><strong>➤ Pickup Delivery App (React + Node.js)</strong></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Pickup%20App-React%20%2B%20Node.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" /><br><br>
+    <strong>Highlights:</strong><br>
+    • Real-time driver tracking (Socket.io)<br>
+    • Stripe payment integration<br>
+    • Docker-based development environment<br><br>
+    🔗 <a href="https://github.com/root-acess/pickup2">View Project</a>
+  </p>
+</details>
+
+</div>
+
+<br>
+<br>
+
+
+
+<br>
+<br>
 
   
 <p align="center">
