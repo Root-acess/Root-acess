@@ -197,7 +197,7 @@
     • Provisioned EC2, S3, IAM roles<br>
     • Modular Terraform setup<br>
     • Infrastructure lifecycle via CLI<br><br>
-    🔗 <a href="https://github.com/root-acess/aws-terraform">View Project</a>
+    🔗 <a href="https://github.com/Root-acess/new-infra-3-tier">View Project</a>
   </p>
 </details>
 <br>
