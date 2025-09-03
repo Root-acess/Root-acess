@@ -183,7 +183,7 @@
     • Dockerized full-stack app<br>
     • Auto deploys to Vercel with rollback<br>
     • GitHub Actions for CI workflow<br><br>
-    🔗 <a href="https://github.com/root-acess/devops-cicd">View Project</a>
+    🔗 <a href="https://github.com/Root-acess/leuma/tree/main">View Project</a>
   </p>
 </details>
 <br>
