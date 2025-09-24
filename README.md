@@ -225,7 +225,7 @@
     • Built with Lambda + API Gateway<br>
     • Lightweight and scalable<br>
     • Integrated DynamoDB and CORS config<br><br>
-    🔗 <a href="https://github.com/root-acess/lambda-api">View Project</a>
+    🔗 <a href="https://github.com/Root-acess/DepAuto">View Project</a>
   </p>
 </details>
 <br>
